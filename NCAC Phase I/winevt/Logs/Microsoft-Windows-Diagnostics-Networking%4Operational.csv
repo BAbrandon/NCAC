@@ -1,0 +1,485 @@
+#TYPE System.Diagnostics.Eventing.Reader.EventLogRecord
+"Message","Id","Version","Qualifiers","Level","Task","Opcode","Keywords","RecordId","ProviderName","ProviderId","LogName","ProcessId","ThreadId","MachineName","UserId","TimeCreated","ActivityId","RelatedActivityId","ContainerLog","MatchedQueryIds","Bookmark","LevelDisplayName","OpcodeDisplayName","TaskDisplayName","KeywordsDisplayNames","Properties"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","86","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1404","3188","rjaf-PC4429","S-1-5-19","8/16/2015 4:11:52 AM","7b86f2cf-119c-40b0-8c89-80aa976af24d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","85","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1404","580","rjaf-PC4429","S-1-5-19","8/16/2015 4:11:26 AM","afa8f3e8-d19b-4558-a444-f793d990b26c",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [1]","2000","0",,"4","2","2","-9223301668110598143","84","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1496","648","rjaf-PC4429","S-1-5-19","6/4/2015 7:18:30 AM","59141146-9834-4aae-8966-db6d9bc5ef87",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","83","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1496","5000","rjaf-PC4429","S-1-5-19","6/4/2015 7:13:31 AM","59141146-9834-4aae-8966-db6d9bc5ef87",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","82","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1132","3260","rjaf-PC4429","S-1-5-19","5/12/2015 11:19:22 PM","d62e0149-72c7-4c21-91ce-dcee8137e7db",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","81","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1060","1244","rjaf-PC4429","S-1-5-19","5/6/2015 8:13:10 AM","c7c32835-4260-4bb2-bfab-946d75e09ecd",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","80","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1060","1244","rjaf-PC4429","S-1-5-19","5/6/2015 8:13:08 AM","c7c32835-4260-4bb2-bfab-946d75e09ecd",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","79","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","3632","rjaf-PC4429","S-1-5-19","4/22/2015 9:06:37 AM","7ea952bd-4ae7-4f4f-b13e-8ffb548cd0ed",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","78","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","3632","rjaf-PC4429","S-1-5-19","4/22/2015 9:06:33 AM","7ea952bd-4ae7-4f4f-b13e-8ffb548cd0ed",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","77","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","3632","rjaf-PC4429","S-1-5-19","4/22/2015 9:06:30 AM","ac9e1634-9bd8-4a11-8679-2bd451d4f0ec",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","76","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2148","rjaf-PC4429","S-1-5-19","4/22/2015 9:04:48 AM","ac9e1634-9bd8-4a11-8679-2bd451d4f0ec",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [1]","2000","0",,"4","2","2","-9223301668110598143","75","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2148","rjaf-PC4429","S-1-5-19","4/22/2015 9:04:42 AM","0edf0be6-671d-47ea-9aff-443ceb444f2d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","74","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","3632","rjaf-PC4429","S-1-5-19","4/22/2015 9:04:09 AM","0edf0be6-671d-47ea-9aff-443ceb444f2d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","73","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","1212","rjaf-PC4429","S-1-5-19","4/11/2015 10:45:55 PM","b4dcac3a-5e02-4890-a836-99d39519e3f4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""http://www.google.com/""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","72","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","3616","rjaf-PC4429","S-1-5-19","4/11/2015 10:45:52 PM","b4dcac3a-5e02-4890-a836-99d39519e3f4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","71","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","7560","rjaf-PC4429","S-1-5-19","4/8/2015 7:34:39 AM","9a5a7925-7f33-4de4-b627-e6e6260dd032",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""https://www.facebook.com/login.php?login_attempt=1""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","70","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","7560","rjaf-PC4429","S-1-5-19","4/8/2015 7:34:37 AM","9a5a7925-7f33-4de4-b627-e6e6260dd032",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","69","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","2044","rjaf-PC4429","S-1-5-19","4/8/2015 7:33:57 AM","0d4b7bb5-786e-4308-bed5-50b7c4827766",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""https://www.facebook.com/login.php?login_attempt=1""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","68","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","2620","rjaf-PC4429","S-1-5-19","4/8/2015 7:33:43 AM","0d4b7bb5-786e-4308-bed5-50b7c4827766",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","67","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","3976","rjaf-PC4429","S-1-5-19","4/1/2015 2:50:45 AM","83df1abb-9ba5-48b5-8b43-d09ffe1e77e4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","66","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","3976","rjaf-PC4429","S-1-5-19","4/1/2015 2:50:38 AM","83df1abb-9ba5-48b5-8b43-d09ffe1e77e4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","65","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","9108","rjaf-PC4429","S-1-5-19","4/1/2015 1:52:29 AM","a35088aa-4af2-47c7-a94e-f455b0c4bef4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","64","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","9108","rjaf-PC4429","S-1-5-19","4/1/2015 1:52:23 AM","a35088aa-4af2-47c7-a94e-f455b0c4bef4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","63","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1100","4860","rjaf-PC4429","S-1-5-19","1/13/2015 9:35:03 AM","a4971729-60e0-4bb5-a159-4aa6c8af03b7",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","62","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1100","3036","rjaf-PC4429","S-1-5-19","1/13/2015 9:34:31 AM","a4971729-60e0-4bb5-a159-4aa6c8af03b7",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","61","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1092","2208","rjaf-PC4429","S-1-5-19","12/7/2014 10:57:28 PM","227bebd7-4efc-4558-8c92-92fcff07db36",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""https://mail.rjaf.mil.jo/""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","60","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1092","2208","rjaf-PC4429","S-1-5-19","12/7/2014 10:56:43 PM","227bebd7-4efc-4558-8c92-92fcff07db36",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","59","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","1236","rjaf-PC4429","S-1-5-19","11/28/2014 8:39:02 AM","d122809a-69d8-4243-a8eb-b38841604943",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","58","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1096","396","rjaf-PC4429","S-1-5-19","11/28/2014 8:38:40 AM","d122809a-69d8-4243-a8eb-b38841604943",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","57","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1092","3308","rjaf-PC4429","S-1-5-19","11/26/2014 4:37:57 AM","ce2e33c5-65b3-4ba7-89e7-bd2fbabc2f38",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","56","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1092","3308","rjaf-PC4429","S-1-5-19","11/26/2014 4:35:56 AM","ce2e33c5-65b3-4ba7-89e7-bd2fbabc2f38",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","55","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","3380","rjaf-PC4429","S-1-5-19","11/11/2014 2:50:31 AM","2bb024fc-99ed-4148-9b07-88b47e377eb3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","54","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","3380","rjaf-PC4429","S-1-5-19","11/11/2014 2:49:34 AM","2bb024fc-99ed-4148-9b07-88b47e377eb3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","53","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1132","3768","rjaf-PC4429","S-1-5-19","10/12/2014 8:23:25 AM","efbe5501-4c1b-46b9-a330-b4b1829c64bb",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""http://www.google.com/""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","52","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1132","3768","rjaf-PC4429","S-1-5-19","10/12/2014 8:23:07 AM","efbe5501-4c1b-46b9-a330-b4b1829c64bb",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","51","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","3804","rjaf-PC4429","S-1-5-19","10/10/2014 4:41:15 AM","8f23a242-d87b-43aa-a028-2baaf4b39fe6",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; UseWinHTTP=1; ","1000","0",,"4","1","1","-9223301668110598143","50","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","2464","rjaf-PC4429","S-1-5-19","10/10/2014 4:40:41 AM","8f23a242-d87b-43aa-a028-2baaf4b39fe6",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","49","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1112","2960","rjaf-PC4429","S-1-5-19","10/1/2014 11:11:07 PM","f105d7f8-e0c4-4291-8a83-5a9fbd7f1bf0",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","48","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1112","2960","rjaf-PC4429","S-1-5-19","10/1/2014 11:10:51 PM","f105d7f8-e0c4-4291-8a83-5a9fbd7f1bf0",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","47","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","520","rjaf-PC4429","S-1-5-19","7/15/2014 12:23:19 AM","96be9451-c557-4519-95e4-353d3ef3490e",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","46","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","520","rjaf-PC4429","S-1-5-19","7/15/2014 12:23:15 AM","96be9451-c557-4519-95e4-353d3ef3490e",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","45","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","1144","rjaf-PC4429","S-1-5-19","7/14/2014 3:15:04 AM","c9b75f58-0944-43bc-b90f-83d67e7b1def",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","44","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1104","1144","rjaf-PC4429","S-1-5-19","7/14/2014 3:14:19 AM","c9b75f58-0944-43bc-b90f-83d67e7b1def",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","43","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1136","7268","rjaf-PC4429","S-1-5-19","6/4/2014 11:14:02 AM","603b7d56-72aa-4e01-99d0-c551c1d7c111",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","42","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1136","7268","rjaf-PC4429","S-1-5-19","6/4/2014 11:13:49 AM","603b7d56-72aa-4e01-99d0-c551c1d7c111",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","41","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1140","3920","rjaf-PC4429","S-1-5-19","5/8/2014 2:17:08 AM","72de2ef6-3b9e-4014-bf5f-3ada5e463460",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","40","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1140","5296","rjaf-PC4429","S-1-5-19","5/8/2014 2:06:03 AM","72de2ef6-3b9e-4014-bf5f-3ada5e463460",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","39","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1140","4280","rjaf-PC4429","S-1-5-19","5/8/2014 12:31:02 AM","571f3e83-dff1-46de-8633-192b775b14fe",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","38","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1140","2620","rjaf-PC4429","S-1-5-19","5/8/2014 12:18:21 AM","2494a773-ff0c-4793-a1c5-fbf00b268ae1",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","37","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1140","2620","rjaf-PC4429","S-1-5-19","5/8/2014 12:18:09 AM","2494a773-ff0c-4793-a1c5-fbf00b268ae1",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","36","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","1464","rjaf-PC4429","S-1-5-19","5/6/2014 11:26:41 AM","7a6e7309-34a4-4625-9fd0-ac42648318c4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","35","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","3604","rjaf-PC4429","S-1-5-19","5/6/2014 11:25:09 AM","7a6e7309-34a4-4625-9fd0-ac42648318c4",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","34","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","336","rjaf-PC4429","S-1-5-19","5/5/2014 8:36:57 AM","549b70c8-cf7d-4278-b69b-ed15aa1dc2e0",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","33","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","336","rjaf-PC4429","S-1-5-19","5/5/2014 8:35:27 AM","549b70c8-cf7d-4278-b69b-ed15aa1dc2e0",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","32","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","3012","rjaf-PC4429","S-1-5-19","5/5/2014 8:18:31 AM","a8b4a0bf-6cd5-40fe-a7f4-574df511a253",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","31","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","2296","rjaf-PC4429","S-1-5-19","5/5/2014 8:18:26 AM","1a4d0736-4529-4293-8326-fb9ffa9b37dc",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","30","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","3012","rjaf-PC4429","S-1-5-19","5/5/2014 8:17:56 AM","1a4d0736-4529-4293-8326-fb9ffa9b37dc",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+URL=""""; ","1000","0",,"4","1","1","-9223301668110598143","29","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","3012","rjaf-PC4429","S-1-5-19","5/5/2014 8:16:35 AM","a8b4a0bf-6cd5-40fe-a7f4-574df511a253",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, no problems found. [0]","2000","0",,"4","2","2","-9223301668110598143","28","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 1:13:48 AM","34c120f1-59b1-4e9f-a80d-fc7f634e3e3d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Failed during repair. [0]","2300","0",,"4","2","2","-9223301668110598143","27","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 1:13:48 AM","bff291a4-e52e-49c1-8f21-5d5d683c1415",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","26","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 1:13:16 AM","34c120f1-59b1-4e9f-a80d-fc7f634e3e3d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","25","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 1:12:38 AM","bff291a4-e52e-49c1-8f21-5d5d683c1415",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Failed during repair. [0]","2300","0",,"4","2","2","-9223301668110598143","24","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","1156","rjaf-PC4429","S-1-5-19","4/11/2014 1:00:46 AM","672c2c5d-aa0f-4873-8c19-16644cdcba7d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Failed during repair. [0]","2300","0",,"4","2","2","-9223301668110598143","23","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","1156","rjaf-PC4429","S-1-5-19","4/11/2014 1:00:46 AM","ad9d18b2-bf78-4013-8e28-a9009ab5e9a3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [0]","2400","0",,"4","2","2","-9223301668110598143","22","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2184","rjaf-PC4429","S-1-5-19","4/11/2014 1:00:35 AM","26dd199c-129f-4774-94e1-1d80b63ec290",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","21","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 1:00:34 AM","26dd199c-129f-4774-94e1-1d80b63ec290",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","20","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2100","rjaf-PC4429","S-1-5-19","4/11/2014 12:57:52 AM","672c2c5d-aa0f-4873-8c19-16644cdcba7d",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","19","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","1156","rjaf-PC4429","S-1-5-19","4/11/2014 12:57:15 AM","ad9d18b2-bf78-4013-8e28-a9009ab5e9a3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","18","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","3884","rjaf-PC4429","S-1-5-19","4/11/2014 12:42:36 AM","537af449-2f87-433e-8432-6e6a5c8ae5bc",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","17","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1120","2072","rjaf-PC4429","S-1-5-19","4/11/2014 12:42:28 AM","537af449-2f87-433e-8432-6e6a5c8ae5bc",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","16","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1112","5760","rjaf-PC4429","S-1-5-19","4/6/2014 2:32:54 AM","f70f65c0-e5c5-4dcb-b0e3-784374f67bc3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","15","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1112","3596","rjaf-PC4429","S-1-5-19","4/6/2014 2:31:08 AM","f70f65c0-e5c5-4dcb-b0e3-784374f67bc3",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","14","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","1256","rjaf-PC4429","S-1-5-19","3/3/2014 8:43:43 AM","914d2c19-1bfc-4a9b-8fc8-77f639fe43cb",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""http://www.google.com/""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","13","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","1256","rjaf-PC4429","S-1-5-19","3/3/2014 8:43:28 AM","914d2c19-1bfc-4a9b-8fc8-77f639fe43cb",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","12","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","2216","rjaf-PC4429","S-1-5-19","2/14/2014 11:49:23 PM","504be321-9989-4430-b74a-58f7c339a209",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 3 
+
+Attributes passed to helper class: 
+URL=""http://www.sarayanews.com/""; UseWinHTTP=1; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","11","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1116","2216","rjaf-PC4429","S-1-5-19","2/14/2014 11:49:10 PM","504be321-9989-4430-b74a-58f7c339a209",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Failed during repair. [0]","2300","0",,"4","2","2","-9223301668110598143","10","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","1160","rjaf-PC4429","S-1-5-19","1/7/2014 12:04:09 PM","b4873040-156f-43df-9d96-fb6c1eb46f79",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Google\Chrome\Application\chrome.exe""; ","1000","0",,"4","1","1","-9223301668110598143","9","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","1156","rjaf-PC4429","S-1-5-19","1/7/2014 12:03:44 PM","b4873040-156f-43df-9d96-fb6c1eb46f79",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [2147500036]","2400","0",,"4","2","2","-9223301668110598143","8","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","2832","rjaf-PC4429","S-1-5-19","1/1/2014 11:15:54 AM","29a2bc48-abc7-49f5-b31d-bea8f9caa410",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","7","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1128","2832","rjaf-PC4429","S-1-5-19","1/1/2014 11:15:41 AM","29a2bc48-abc7-49f5-b31d-bea8f9caa410",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Cancelled during diagnosis. [0]","2400","0",,"4","2","2","-9223301668110598143","6","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1100","1340","rjaf-PC4429","S-1-5-19","12/17/2013 5:45:37 PM","47417ec5-a9ea-4f1d-af8d-c8a89dacbbd9",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","5","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1100","1340","rjaf-PC4429","S-1-5-19","12/17/2013 5:45:36 PM","47417ec5-a9ea-4f1d-af8d-c8a89dacbbd9",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","4","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1056","3868","rjaf-PC4429","S-1-5-19","12/10/2013 8:27:46 AM","d573a1c1-d943-4aa0-97ef-68725b888ea6",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: WinInetHelperClass 
+
+Number of parameters: 2 
+
+Attributes passed to helper class: 
+URL=""""; AppID=""C:\Program Files\Internet Explorer\iexplore.exe""; ","1000","0",,"4","1","1","-9223301668110598143","3","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1056","3484","rjaf-PC4429","S-1-5-19","12/10/2013 8:26:49 AM","d573a1c1-d943-4aa0-97ef-68725b888ea6",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework stopped because it completed the user initiated diagnostics session. 
+
+Result: Success, problems repaired. [0]","2100","0",,"4","2","2","-9223301668110598143","2","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1056","2544","rjaf-PC4429","S-1-5-19","12/10/2013 8:20:27 AM","1647c771-de5f-4387-b688-c2b514df05ed",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","Stop","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Network Diagnostics Framework started because the user requested a diagnostics session. 
+
+Helper Class Name: NetConnection 
+
+Number of parameters: 1 
+
+Attributes passed to helper class: 
+guid={9819BC20-693D-4f54-9CE8-7BFD5AD735CE};","1000","0",,"4","1","1","-9223301668110598143","1","Microsoft-Windows-Diagnostics-Networking","36c23e18-0e66-11d9-bbeb-505054503030","Microsoft-Windows-Diagnostics-Networking/Operational","1056","4088","rjaf-PC4429","S-1-5-19","12/10/2013 8:20:06 AM","1647c771-de5f-4387-b688-c2b514df05ed",,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-diagnostics-networking%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","Start","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"

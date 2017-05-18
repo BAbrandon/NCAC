@@ -1,0 +1,126 @@
+#TYPE System.Diagnostics.Eventing.Reader.EventLogRecord
+"Message","Id","Version","Qualifiers","Level","Task","Opcode","Keywords","RecordId","ProviderName","ProviderId","LogName","ProcessId","ThreadId","MachineName","UserId","TimeCreated","ActivityId","RelatedActivityId","ContainerLog","MatchedQueryIds","Bookmark","LevelDisplayName","OpcodeDisplayName","TaskDisplayName","KeywordsDisplayNames","Properties"
+"WLAN AutoConfig service has successfully disconnected from a wireless network.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Connection Mode: Manual connection with a profile
+Profile Name: linksys
+SSID: linksys
+BSS Type: Infrastructure
+Reason: The network is disconnected by the user.
+","8003","0",,"4","24010","192","-9223372036854775296","12","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","3168","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:20 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Disconnect","AcmConnection","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless security stopped.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Security Hint: 00:25:9C:E8:48:32
+","11004","0",,"4","24012","197","-9223372036854775296","11","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","3168","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:20 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Stop","MsmSecurity","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"WLAN AutoConfig service has successfully connected to a wireless network.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Connection Mode: Connection to a secure network without a profile
+Profile Name: linksys
+SSID: linksys
+BSS Type: Infrastructure
+PHY Type: 00:25:9C:E8:48:32
+Authentication: 802.11g
+Encryption: WPA-Personal
+802.1x Enabled: TKIP
+Hidden: 0x3
+","8001","0",,"4","24010","190","-9223372036854775296","10","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","2112","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:06 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Success","AcmConnection","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless security succeeded.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+","11005","0",,"4","24012","198","-9223372036854775296","9","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","3524","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:06 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Success","MsmSecurity","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless security started.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Authentication: 00:25:9C:E8:48:32
+Encryption: 4
+FIPS Mode: 2
+802.1x Enabled: No
+","11010","0",,"4","24012","200","-9223372036854775296","8","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","988","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:05 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","MsmSecurity","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless network association succeeded.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Management Frame Protection Enabled: 00:25:9C:E8:48:32
+","11001","0",,"4","24011","194","-9223372036854775296","7","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","988","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:05 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Success","MsmAssociation","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless network association started.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Authentication: WPA-Personal
+Encryption: TKIP
+802.1X Enabled: No
+","11000","0",,"4","24011","193","-9223372036854775296","6","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","116","rjaf-PC4429","S-1-5-18","12/23/2013 4:04:05 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","MsmAssociation","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"WLAN AutoConfig service started a connection to a wireless network.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Connection Mode: Connection to a secure network without a profile
+Profile Name: linksys
+SSID: linksys
+BSS Type: Infrastructure
+","8000","0",,"4","24010","189","-9223372036854775296","5","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","2112","rjaf-PC4429","S-1-5-18","12/23/2013 4:03:52 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","AcmConnection","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"WLAN AutoConfig service failed to connect to a wireless network.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Connection Mode: Connection with a temporary profile
+Profile Name: WCN Temporary Profile
+SSID: linksys
+BSS Type: Infrastructure
+Failure Reason:The specific network is not available.
+RSSI: %10
+","8002","0",,"2","24010","191","-9223372036854775296","4","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","988","rjaf-PC4429","S-1-5-18","12/23/2013 4:03:46 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Error","Failure","AcmConnection","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless network association failed.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Failure Reason: The driver disconnected while associating.
+Dot11 Status Code: 2
+RSSI: %10
+","11002","0",,"2","24011","195","-9223372036854775296","3","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","988","rjaf-PC4429","S-1-5-18","12/23/2013 4:03:46 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Error","Failure","MsmAssociation","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"Wireless network association started.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Local MAC Address: 00:21:27:CC:04:57
+Network SSID: linksys
+BSS Type: Infrastructure
+Authentication: Open
+Encryption: WEP
+802.1X Enabled: Yes
+","11000","0",,"4","24011","193","-9223372036854775296","2","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","3264","rjaf-PC4429","S-1-5-18","12/23/2013 4:03:44 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","MsmAssociation","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"
+"WLAN AutoConfig service started a connection to a wireless network.
+
+Network Adapter: RT73 USB Wireless LAN Card #3
+Interface GUID: {157050E0-FD58-43EB-9C78-4740E7210E94}
+Connection Mode: Connection with a temporary profile
+Profile Name: WCN Temporary Profile
+SSID: linksys
+BSS Type: Infrastructure
+","8000","0",,"4","24010","189","-9223372036854775296","1","Microsoft-Windows-WLAN-AutoConfig","9580d7dd-0379-4658-9870-d5be7d52d6de","Microsoft-Windows-WLAN-AutoConfig/Operational","948","3264","rjaf-PC4429","S-1-5-18","12/23/2013 4:03:44 AM",,,"c:\users\mac_1\desktop\winevt\logs\microsoft-windows-wlan-autoconfig%4operational.evtx","System.UInt32[]","System.Diagnostics.Eventing.Reader.EventBookmark","Information","Start","AcmConnection","System.Collections.ObjectModel.ReadOnlyCollection`1[System.String]","System.Collections.Generic.List`1[System.Diagnostics.Eventing.Reader.EventProperty]"

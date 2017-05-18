@@ -1,0 +1,86 @@
+﻿2013-12-10 11:16:34, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\b18619b48098325b034f37896a94fc33\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-10 11:16:37, Info                  DPX    Started DPX phase: Inventory
+2013-12-10 11:16:56, Info                  DPX    Ended DPX phase: Inventory
+2013-12-10 11:16:57, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\eb82ed8509870615cd91b6e8a44703aa\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-10 11:17:02, Info                  DPX    Started DPX phase: Inventory
+2013-12-10 11:17:03, Info                  DPX    Ended DPX phase: Inventory
+2013-12-10 11:17:04, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-10 11:17:04, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2013-12-10 11:17:14, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-10 11:17:14, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2013-12-12 09:40:08, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\f3c3053c0285733c70ba26cb2200e2bd\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-12 09:40:11, Info                  DPX    Started DPX phase: Inventory
+2013-12-12 09:40:17, Info                  DPX    Ended DPX phase: Inventory
+2013-12-12 09:40:18, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\890c6f6a1ee4c089bc7cf467298ccc36\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-12 09:40:20, Info                  DPX    Started DPX phase: Inventory
+2013-12-12 09:40:21, Info                  DPX    Ended DPX phase: Inventory
+2013-12-12 09:40:56, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\e23f9e106d74db1add60e889b485beec\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-12 09:41:03, Info                  DPX    Started DPX phase: Inventory
+2013-12-12 09:41:04, Info                  DPX    Ended DPX phase: Inventory
+2013-12-12 09:41:05, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\357fd52cda95e42eaa88e3e20766b5df\$dpx$.tmp\job.xml, Error:0x80070002
+2013-12-12 09:41:07, Info                  DPX    Started DPX phase: Inventory
+2013-12-12 09:41:08, Info                  DPX    Ended DPX phase: Inventory
+2013-12-12 09:41:08, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:09, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:09, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:10, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:32, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:33, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:38, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2013-12-12 09:41:38, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2014-08-13 17:11:39, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\71126091440974c409bd620c88a83ba9\$dpx$.tmp\job.xml, Error:0x80070002
+2014-08-13 17:11:43, Info                  DPX    Started DPX phase: Inventory
+2014-08-13 17:11:50, Info                  DPX    Ended DPX phase: Inventory
+2014-11-12 09:11:20, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\a18effb18b59deb5144a30eace185bdc\$dpx$.tmp\job.xml, Error:0x80070002
+2014-11-12 09:11:24, Info                  DPX    Started DPX phase: Inventory
+2014-11-12 09:11:42, Info                  DPX    Ended DPX phase: Inventory
+2014-11-12 09:13:30, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2014-11-12 09:13:30, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2014-11-15 12:59:05, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\e601451c92dccc52d91e1eb6460639e3\$dpx$.tmp\job.xml, Error:0x80070002
+2014-11-15 12:59:08, Info                  DPX    Started DPX phase: Inventory
+2014-11-15 12:59:14, Info                  DPX    Ended DPX phase: Inventory
+2014-11-15 12:59:27, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2014-11-15 12:59:28, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-02-11 10:28:10, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\e890740f6f6fc1e086c79e03db912554\$dpx$.tmp\job.xml, Error:0x80070002
+2015-02-11 10:28:31, Info                  DPX    Started DPX phase: Inventory
+2015-02-11 10:29:22, Info                  DPX    Ended DPX phase: Inventory
+2015-02-11 10:31:50, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-02-11 10:31:51, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-03-25 09:42:25, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\e18ceeae7e9d586d793433506bddd3cb\$dpx$.tmp\job.xml, Error:0x80070002
+2015-03-25 09:42:32, Info                  DPX    Started DPX phase: Inventory
+2015-03-25 09:43:07, Info                  DPX    Ended DPX phase: Inventory
+2015-03-25 09:44:02, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-03-25 09:44:04, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-05-14 11:21:54, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\95acdf876849fa86f521880b6c6b0388\$dpx$.tmp\job.xml, Error:0x80070002
+2015-05-14 11:22:05, Info                  DPX    Started DPX phase: Inventory
+2015-05-14 11:22:20, Info                  DPX    Ended DPX phase: Inventory
+2015-05-14 11:22:21, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\14b845cb8dc78d04bf35676a0e59f977\$dpx$.tmp\job.xml, Error:0x80070002
+2015-05-14 11:22:25, Info                  DPX    Started DPX phase: Inventory
+2015-05-14 11:22:32, Info                  DPX    Ended DPX phase: Inventory
+2015-05-14 11:22:32, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-05-14 11:22:33, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-05-14 11:24:02, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-05-14 11:24:03, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-06-04 17:10:39, Info                  DPX    Started DPX phase: Resume and Download Job
+2015-06-04 17:10:39, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-06-04 17:10:39, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-06-04 17:10:39, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-06-04 17:10:39, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-06-04 17:10:39, Info                  DPX    Ended DPX phase: Resume and Download Job
+2015-06-17 14:39:36, Info                  DPX    Started DPX phase: Resume and Download Job
+2015-06-17 14:39:36, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-06-17 14:39:36, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-06-17 14:39:36, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-06-17 14:39:36, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-06-17 14:39:36, Info                  DPX    Ended DPX phase: Resume and Download Job
+2015-08-16 19:05:07, Info                  DPX    CreateFileW failed, FileName:\\?\C:\Windows\SoftwareDistribution\Download\a337b6ca3989c52044bc368784bfa52e\$dpx$.tmp\job.xml, Error:0x80070002
+2015-08-16 19:05:12, Info                  DPX    Started DPX phase: Inventory
+2015-08-16 19:05:27, Info                  DPX    Ended DPX phase: Inventory
+2015-08-16 19:31:06, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-08-16 19:31:08, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-09-10 13:55:00, Info                  DPX    Started DPX phase: Resume and Download Job
+2015-09-10 13:55:00, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-09-10 13:55:00, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-09-10 13:55:00, Info                  DPX    Started DPX phase: Apply Deltas Provided In File
+2015-09-10 13:55:00, Info                  DPX    Ended DPX phase: Apply Deltas Provided In File
+2015-09-10 13:55:00, Info                  DPX    Ended DPX phase: Resume and Download Job

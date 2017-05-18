@@ -1,0 +1,31 @@
+
+==================================================
+Start of IE9 NoReboot Servicing
+        6.1.7600-2.0 RJAF-PC4429.WORKGROUP\RJAF-PC4429$  OS:x86  IENrUtil:x86  IEversion:8.0.7600.16385  Date(UT):20131211-090507
+        Command line: C:\Windows\TEMP\IE92918.tmp\IE9-support\ienrcore.exe /memsec IESETUP_NRCTX_0e70 
+######## DISABLED ######## neither explorer or dwm are running
+________Parsing dynamic policy file: 'C:\Windows\TEMP\IE92918.tmp\IE9-support\NrPolicy.txt'
+________ WARNING ________ IESetup environment variable is predefined as 'C:\Windows\TEMP\IE92918.tmp\IE9-support'
+        MSU location set to 'C:\Windows\TEMP\IE92918.tmp\IE9-support\IE9-win7X86.msu'
+        IE version set to '8.0.7600.16385'
+        IE bitness set to 'x86'
+
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\IeNrCore.exe" exit 1 > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\ieinfra.manifest" exit 1 > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\trustedinstaller.exe.manifest" exit 1 > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  echo Mumfile = "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.mum" > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+Mumfile = "C:\Windows\TEMP\IE92918.tmp\IE9-support\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~x86~~8.0.7600.16385.mum" 
+
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.mum" exit 1 > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.cat" exit 1 > C:\Windows\Logs\IESetup_20131211-090507_temp.log 2>&1'
+
+
+NRFindPreserviceProblems...
+true  02 0932 RmService            "Background Intelligent Transfer Service" - "BITS"
+true  02 1456 RmService            "Microsoft Forefront Client Security State Assessment Service" - "FcsSas"
+true  02 2588 RmService            "Windows Defender" - "WinDefend"
+true  02 3500 RmService            "Windows Modules Installer" - "TrustedInstaller"
+
+
+End of IE9 NoReboot Servicing
+==================================================

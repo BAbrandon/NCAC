@@ -1,0 +1,17 @@
+#!/usr/bin/perl
+$t = 1;
+while($l = <>){
+    if($l =~ /^#.*$/){
+        next;
+    }
+    @a = split(' ', $l);
+    $d = shift @a;
+    splice @a, 5,1;
+    if($d != $t){
+        $t = $d;
+        print "\n\t\t\t$d\n\n";
+    }else{
+        print "@a[0]   @a[1]:@a[2] -> @a[3]:@a[4]   @a[5]  @a[6] @a[7] @a[8] @a[9] @a[10]\n\n";
+    }
+
+}
